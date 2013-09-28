@@ -1,4 +1,4 @@
-bottles_of_beer = 5
+bottles_of_beer = 99
 divider = '- '*32
 while bottles_of_beer != -1
 	if bottles_of_beer != 0
